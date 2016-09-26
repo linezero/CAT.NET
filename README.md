@@ -4,4 +4,4 @@
 
 CAT 介绍：[dianping/cat](https://github.com/dianping/cat)
 
-源码来自 [dianping/cat.net](https://github.com/dianping/cat.net)
+源码部分来自 [dianping/cat.net](https://github.com/dianping/cat.net)
